@@ -59,7 +59,7 @@ It enables beginners to:
 ## 🎥 Demo
 
 Watch the demo video here:  
-👉 (Paste your screen recording link here)
+👉 ./Recording 2026-02-10 215942.mp4
 
 ---
 
